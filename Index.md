@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
 - [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
