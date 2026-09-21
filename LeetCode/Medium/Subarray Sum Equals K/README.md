@@ -8,8 +8,8 @@
 | **Solved On** | September 21, 2026 |
 | **Tags** | Array, Hash Table, Prefix Sum |
 | **Link** | [View Problem](https://leetcode.com/problems/subarray-sum-equals-k/) |
-| **Runtime** | 35 ms |
-| **Memory** | 48.5 MB |
+| **Runtime** | 43 ms |
+| **Memory** | 48.2 MB |
 
 ## Problem Description
 
