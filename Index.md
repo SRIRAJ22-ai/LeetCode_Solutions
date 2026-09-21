@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 - [Longest Subsequence With Limited Sum](./LeetCode/Easy/Longest%20Subsequence%20With%20Limited%20Sum) - *Easy*
