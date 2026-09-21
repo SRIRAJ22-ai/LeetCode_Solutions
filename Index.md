@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Maximum Number of Vowels in a Substring of Given Length](./LeetCode/Medium/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length) - *Medium*
 - [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) - *Easy*
 - [Maximum Sum of Distinct Subarrays With Length K](./LeetCode/Medium/Maximum%20Sum%20of%20Distinct%20Subarrays%20With%20Length%20K) - *Medium*
 - [Count Elements With Maximum Frequency](./LeetCode/Easy/Count%20Elements%20With%20Maximum%20Frequency) - *Easy*
