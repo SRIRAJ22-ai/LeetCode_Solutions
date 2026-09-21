@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Magnetic Force Between Two Balls](./LeetCode/Medium/Magnetic%20Force%20Between%20Two%20Balls) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) - *Medium*
 - [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) - *Medium*
