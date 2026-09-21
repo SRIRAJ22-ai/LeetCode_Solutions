@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) - *Medium*
 - [Magnetic Force Between Two Balls](./LeetCode/Medium/Magnetic%20Force%20Between%20Two%20Balls) - *Medium*
 - [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) - *Medium*
