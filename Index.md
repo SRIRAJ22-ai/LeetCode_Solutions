@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) - *Medium*
 - [Permutations II](./LeetCode/Medium/Permutations%20II) - *Medium*
 - [Permutations](./LeetCode/Medium/Permutations) - *Medium*
 - [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) - *Medium*
