@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
 - [Reverse String](./LeetCode/Easy/Reverse%20String) - *Easy*
 - [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
