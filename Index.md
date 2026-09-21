@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Count Elements With Maximum Frequency](./LeetCode/Easy/Count%20Elements%20With%20Maximum%20Frequency) - *Easy*
 - [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) - *Medium*
 - [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) - *Medium*
 - [Permutations II](./LeetCode/Medium/Permutations%20II) - *Medium*
