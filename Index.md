@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) - *Medium*
 - [Combinations](./LeetCode/Medium/Combinations) - *Medium*
 - [Subsets](./LeetCode/Medium/Subsets) - *Medium*
 - [Subarray Sum Equals K](./LeetCode/Medium/Subarray%20Sum%20Equals%20K) - *Medium*
