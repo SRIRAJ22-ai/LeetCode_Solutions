@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Permutations](./LeetCode/Medium/Permutations) - *Medium*
 - [Combination Sum II](./LeetCode/Medium/Combination%20Sum%20II) - *Medium*
 - [Combinations](./LeetCode/Medium/Combinations) - *Medium*
 - [Subsets](./LeetCode/Medium/Subsets) - *Medium*
