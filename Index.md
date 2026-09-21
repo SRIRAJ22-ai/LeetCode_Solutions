@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) - *Medium*
 - [Magnetic Force Between Two Balls](./LeetCode/Medium/Magnetic%20Force%20Between%20Two%20Balls) - *Medium*
