@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [FALLPR](./CodeChef/Unknown/FALLPR) - *Unknown*
 - [LITUP](./CodeChef/Unknown/LITUP) - *Unknown*
 - [PGNATK](./CodeChef/Unknown/PGNATK) - *Unknown*
 - [ECHOECHO](./CodeChef/Unknown/ECHOECHO) - *Unknown*
