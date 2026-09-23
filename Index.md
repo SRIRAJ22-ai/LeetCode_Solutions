@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [ECHOECHO](./CodeChef/Unknown/ECHOECHO) - *Unknown*
 - [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) - *Medium*
 - [Minimum Moves to Equal Array Elements](./LeetCode/Medium/Minimum%20Moves%20to%20Equal%20Array%20Elements) - *Medium*
 - [Container With Most Water](./LeetCode/Medium/Container%20With%20Most%20Water) - *Medium*
