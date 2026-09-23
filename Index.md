@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [LITUP](./CodeChef/Unknown/LITUP) - *Unknown*
 - [PGNATK](./CodeChef/Unknown/PGNATK) - *Unknown*
 - [ECHOECHO](./CodeChef/Unknown/ECHOECHO) - *Unknown*
 - [Boats to Save People](./LeetCode/Medium/Boats%20to%20Save%20People) - *Medium*
