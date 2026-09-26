@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [3Sum](./LeetCode/Medium/3Sum) - *Medium*
 - [FALLPR](./CodeChef/Unknown/FALLPR) - *Unknown*
 - [LITUP](./CodeChef/Unknown/LITUP) - *Unknown*
 - [PGNATK](./CodeChef/Unknown/PGNATK) - *Unknown*
