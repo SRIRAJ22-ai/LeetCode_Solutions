@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Maximum Units on a Truck](./LeetCode/Easy/Maximum%20Units%20on%20a%20Truck) - *Easy*
 - [Minimum Number of Moves to Seat Everyone](./LeetCode/Easy/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone) - *Easy*
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 - [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) - *Easy*
