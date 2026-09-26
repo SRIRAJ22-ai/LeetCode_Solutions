@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Minimum Number of Moves to Seat Everyone](./LeetCode/Easy/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone) - *Easy*
 - [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) - *Easy*
 - [Lemonade Change](./LeetCode/Easy/Lemonade%20Change) - *Easy*
 - [4Sum](./LeetCode/Medium/4Sum) - *Medium*
