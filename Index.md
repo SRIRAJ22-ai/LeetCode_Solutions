@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Restore IP Addresses](./LeetCode/Medium/Restore%20IP%20Addresses) - *Medium*
 - [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) - *Medium*
 - [Letter Combinations of a Phone Number](./LeetCode/Medium/Letter%20Combinations%20of%20a%20Phone%20Number) - *Medium*
 - [Word Search](./LeetCode/Medium/Word%20Search) - *Medium*
