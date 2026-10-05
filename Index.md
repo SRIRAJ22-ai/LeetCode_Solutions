@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) - *Medium*
 - [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) - *Easy*
 - [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) - *Easy*
 - [Linked List Cycle](./LeetCode/Easy/Linked%20List%20Cycle) - *Easy*
