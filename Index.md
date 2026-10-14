@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [WATERMOVE2](./CodeChef/Unknown/WATERMOVE2) - *Unknown*
 - [CHANGEONE7](./CodeChef/Unknown/CHANGEONE7) - *Unknown*
 - [BLUEBLACK](./CodeChef/Unknown/BLUEBLACK) - *Unknown*
 - [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) - *Easy*
