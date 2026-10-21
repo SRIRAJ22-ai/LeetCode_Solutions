@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [EXSHAKE](./CodeChef/Unknown/EXSHAKE) - *Unknown*
 - [BETWEEN](./CodeChef/Unknown/BETWEEN) - *Unknown*
 - [WATERMOVE](./CodeChef/Unknown/WATERMOVE) - *Unknown*
 - [WATERMOVE2](./CodeChef/Unknown/WATERMOVE2) - *Unknown*
