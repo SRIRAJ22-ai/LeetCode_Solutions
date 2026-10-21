@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [EXKEYPAD](./CodeChef/Unknown/EXKEYPAD) - *Unknown*
 - [EXQUIZ](./CodeChef/Unknown/EXQUIZ) - *Unknown*
 - [EXSHAKE](./CodeChef/Unknown/EXSHAKE) - *Unknown*
 - [BETWEEN](./CodeChef/Unknown/BETWEEN) - *Unknown*
